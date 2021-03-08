@@ -13,6 +13,6 @@ repos:
       additional_dependencies: [isort==5.7.0]
       args: [--nbqa-mutate]
 - repo: https://github.com/kynan/nbstripout
-  rev: master
+  rev: 0.3.9
   hooks:
     - id: nbstripout
