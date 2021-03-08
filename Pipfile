@@ -13,6 +13,7 @@ matplotlib = "*"
 calplot = "*"
 plotly = "*"
 requests = "*"
+topojson = "*"
 
 [requires]
 python_version = "3.8"
